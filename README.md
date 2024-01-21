@@ -56,8 +56,8 @@ Essas tecnologias formam um conjunto robusto e eficiente para o desenvolvimento 
 
 ## Recursos
 
-- [Link para o Curso na Udemy]([<inserir-link-do-curso>](https://www.udemy.com/course/python-para-financas-analise-de-dados-e-machine-learning/learn/lecture/23802824#overview))
-- [Professor Jones - IA Expert Academy](<[inserir-link-do-perfil-do-professor>](https://www.linkedin.com/school/ia-expert-academy/))
+Link para o Curso na Udemy
+Professor Jones - IA Expert Academy
 
 Lembre-se de manter a integridade dos dados e aproveite a exploração dos conceitos de análise de dados em Python aplicados a portfólios de ações.
 
