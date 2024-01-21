@@ -4,7 +4,7 @@ Neste projeto, desenvolvido como parte do curso "Python para Finanças: Análise
 
 ![Logo do Projeto](imagens/bolsa_de_valores_logo.jpeg)
 
-## Descrição do Exercício
+## Descrição do Exercício:
 
 No exercício do primeiro módulo, criamos uma nova base de dados contendo empresas de diversos setores da economia. O objetivo era comparar os resultados entre a primeira carteira de ações e essa segunda carteira de ações. Assim, o foco deste exercício é calcular o risco associado a essa carteira e gerar a matriz de correlação.
 
