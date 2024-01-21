@@ -25,6 +25,8 @@ Durante o exercício, foi proposto seguir exatamente o mesmo código implementad
 
 **Tecnologias Utilizadas:**
 
+![Logo do Python](imagens/python_logo_cgv.jpg)
+
 1. **Linguagem de Programação:**
    - **Python:** Utilizada como linguagem principal para a implementação do projeto.
 
