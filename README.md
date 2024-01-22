@@ -1,6 +1,6 @@
 # Projeto: Calcular Risco de Portfólio de Ações
 
-Neste projeto, desenvolvido como parte do curso "Python para Finanças: Análise de Dados e Machine Learning" ministrado pelo Professor Jone na plataforma Udemy, exploramos a análise de risco em portfólios de ações.
+Neste projeto, desenvolvido como parte do curso "Python para Finanças: Análise de Dados e Machine Learning" ministrado pelo Professor Jones na plataforma Udemy, exploramos a análise de risco em portfólios de ações.
 
 ![Logo do Projeto](imagens/bolsa_de_valores_logo.jpg)
 
